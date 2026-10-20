@@ -1,0 +1,19 @@
+{
+  "name": "mlj-shapez-mods",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "shapez 一代模组与共用打包工具",
+  "engines": { "node": ">=22.18.0" },
+  "scripts": {
+    "check": "node --experimental-strip-types AfterBuildEvent/src/main.ts check",
+    "build": "node --experimental-strip-types AfterBuildEvent/src/main.ts build",
+    "pack": "node --experimental-strip-types AfterBuildEvent/src/main.ts pack"
+  },
+  "devDependencies": {
+    "@types/node": "24.19.1",
+    "esbuild": "0.28.2",
+    "fflate": "0.8.3",
+    "typescript": "5.9.3"
+  }
+}

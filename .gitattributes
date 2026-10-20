@@ -1,0 +1,14 @@
+# 文本统一使用 LF，供 Windows 与 WSL 共用。
+* text=auto eol=lf
+
+# 二进制资源保持原始字节。
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.psd binary
+*.zip binary
+*.woff binary
+*.woff2 binary
+*.ttf binary

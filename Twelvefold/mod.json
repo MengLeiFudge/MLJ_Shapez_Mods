@@ -1,0 +1,11 @@
+{
+  "id": "mlj-twelvefold",
+  "name": "Twelvefold / 十二工坊",
+  "version": "0.1.0",
+  "author": "MengLei",
+  "website": "https://github.com/MengLeiFudge",
+  "description": "Twelve-slot shapes, connected pieces, smelting and automatic manufacturing.",
+  "minimumGameVersion": ">=1.5.6",
+  "settings": [],
+  "doesNotAffectSavegame": false
+}

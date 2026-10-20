@@ -1,0 +1,12 @@
+{
+  "gameVersion": "1.5.6",
+  "languages": ["en", "zh-CN", "zh-TW", "ja", "kor", "cs", "da", "de", "es-419", "fr", "it", "hu", "nl", "no", "pl", "pt-PT", "pt-BR", "ro", "ru", "fi", "sv", "tr", "uk", "he"],
+  "groups": {
+    "ui": ["main", "sides", "research", "blueprints", "representatives", "orders", "help", "science", "points", "tier", "delivered", "required", "remaining", "reward", "buy", "owned", "locked", "speed", "close", "completed", "configure", "apply", "invalid", "input", "output", "boolean", "integer", "color", "piece", "shape", "valid", "occupied", "previous", "next", "canProcess", "hasProduct", "write", "clear", "layer", "slot", "steps", "template", "hasOrder", "orderId", "freeplay", "milestone", "group", "pickNode", "newSave", "ports", "belt", "mining", "processing", "painting"],
+    "machine": ["cut", "rotate", "swap", "stack", "paint", "smelt", "flipBlock", "mirror", "delayer", "paint2", "chainMiner", "merge", "split", "priority", "filter", "crossing", "smartTunnel", "hyperline", "hyperIn", "hyperOut"],
+    "node": ["shapeConstant", "boolConstant", "compare", "and", "or", "not", "sensor", "display", "integerConstant", "colorConstant", "pieceConstant", "layerCount", "takeLayer", "takeSlot", "add", "subtract", "multiply", "divide", "modulo", "less", "greater", "select", "register", "rising", "orderSource", "orderRegister"],
+    "color": ["r", "o", "y", "l", "g", "m", "c", "h", "b", "z", "p", "i", "w", "k", "u"],
+    "goal": ["half", "sector", "step", "slope", "representative", "red", "grayRing", "redRing", "orange", "twoBlocks"],
+    "help": ["geometry", "processing", "center", "progress", "circuits", "hyperlink"]
+  }
+}
